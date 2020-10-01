@@ -2,8 +2,10 @@
 Cyber Panel Friendly CLI User Interface
 
 # Screenshots
-![Screenshot](“cyberpanel.png”)
-![Screenshot](“cyberpanel1.png”)
+![Screenshot](https://github.com/alfredvalderrama98/cyberpanel/blob/master/cyberpanel.png)
+
+
+![Screenshot](https://github.com/alfredvalderrama98/cyberpanel/blob/master/cyberpanel1.png)
 
 ## Why i create this script?
 I created this script because we would need to migrate all our wordpress, joomla, drupal site to a secure control panel.
@@ -11,4 +13,4 @@ And we discover this control panel called cyberpanel and use this as alternative
 
 
 ## Bug Report
-[Email alfred98valderrama@gmail.com](mailto:alfred98valderrama@gmail.com?subject=[CyberPanel] Bug Report)
+[Email alfred98valderrama@gmail.com](mailto:alfred98valderrama@gmail.com)
