@@ -13,4 +13,4 @@ And we discover this control panel called cyberpanel and use this as alternative
 
 
 ## Bug Report
-[Email alfred98valderrama@gmail.com](mailto:alfred98valderrama@gmail.com)
+[alfred98valderrama@gmail.com](mailto:alfred98valderrama@gmail.com)
