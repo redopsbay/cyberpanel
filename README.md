@@ -16,7 +16,7 @@ And we discover this control panel called cyberpanel and use this as alternative
 
 ## Run Script
 ```
-[root@cyberpanel ~]# curl -qO https://raw.githubusercontent.com/alfredvalderrama98/cyberpanel/master/cyberpanel-cli.sh
+[root@cyberpanel ~]# curl -qO https://raw.githubusercontent.com/redopsbay/cyberpanel/master/cyberpanel-cli.sh
 [root@cyberpanel ~]# chmod +x cyberpanel-cli.sh
 [root@cyberpanel ~]# mv -v cyberpanel-cli.sh /usr/local/bin/
 [root@cyberpanel ~]# cyberpanel-cli.sh
